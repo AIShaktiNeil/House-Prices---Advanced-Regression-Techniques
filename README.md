@@ -50,7 +50,7 @@ This repository contains an end-to-end solution for the [House Prices: Advanced 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/house-prices-prediction.git
+   git clone https://github.com/AIShaktiNeil/House-Prices---Advanced-Regression-Techniques/blob/main/house_price_train.ipynb
    cd house-prices-prediction
    ```
 
