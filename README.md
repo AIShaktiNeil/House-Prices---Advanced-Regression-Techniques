@@ -1,5 +1,5 @@
 
-# House Prices Prediction using Ensemble Models
+# House Prices Prediction 
 
 This repository contains an end-to-end solution for the [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) competition on Kaggle. The project leverages multiple regression models and extensive hyperparameter tuning to predict house sale prices accurately.
 
